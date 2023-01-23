@@ -1,5 +1,5 @@
-create database 1bm21cs057_bankDb;
-use 1bm21cs057_bankDb;
+create database bankDb;
+use bankDb;
 create table branch(
 branch_name varchar(20),
 branch_city varchar(10),
